@@ -9,4 +9,3 @@ This repository includes material for the course QTM 210. This course covers the
 The definitions, examples and exercises  are based on the following textbooks:
 
 - Introduction to Mathematical Statistics and Its Applications, 6th Edition, by Richard Larsen and Morris Marx.
-- Probability and Statistics with R, by Maria Dolores Ugarte, Ana F. Militino, Alan T. Arnholt
